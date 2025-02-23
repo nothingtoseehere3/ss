@@ -9,7 +9,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 TOKEN = '7454367733:AAFppCorOhHmnRIjXZ5VU8jPZd2WPm3IOWo'
 
 # Replace this with your actual Telegram group chat ID
-GROUP_CHAT_ID = '-4522538800'  # Keep the '-' in the ID
+GROUP_CHAT_ID = '7535054004'  # Keep the '-' in the ID
 
 # Correct log file path (using raw string to avoid backslash issues)
 log_file_path = r"C:\Users\pc\Desktop\axd\bot_logs.log"
